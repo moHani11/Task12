@@ -72,7 +72,7 @@ This servo operates the opening and closing of the fork. The fork opens to allow
 
 - Two brushless motors are used to drive two parallel cylinders that grip and launch a ball by spinning at high speeds. The ball is placed between the two rotating cylinders, and as the cylinders spin, they exert friction on the ball, accelerating it and launching it forward.
 
-## Why stepper Motor
+## Why Brushless Motors
 
  **Brushless motors** are used for this application because of their key advantages:
 
