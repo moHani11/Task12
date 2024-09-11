@@ -1,0 +1,2 @@
+[Drive link for the video](https://drive.google.com/file/d/1-WNdO7vV9lh8JIZELbSYKFQBwAgyMkSo/view)  
+[Video on notion](https://www.notion.so/Video-explaining-the-machanism-of-the-robot-fac5a072a8024b4da9b3ae7b17726f0d)
